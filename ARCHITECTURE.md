@@ -575,5 +575,5 @@ SQLite DB created with all tables. Student class picker works.
 1. ✅ **Phase 5 Prerequisite** — Run `scripts/verify_voices.py` on a lab PC.
 2. 🚧 **Phase 1** — One focused step at a time. Start with `app/__init__.py`.
 
-When ready for Phase 1, say: **"Let's build Phase 1"** — I'll give you the first step with exact code.
+
 ```
